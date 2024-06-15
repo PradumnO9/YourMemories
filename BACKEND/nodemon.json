@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "Pradumn",
+        "DB_PASSWORD": "1mjlHx4p4tco2fK3",
+        "DB_NAME": "mern-prod",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
